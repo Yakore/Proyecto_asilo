@@ -1,0 +1,9 @@
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\bin\Debug\EstructuradeDatos.exe.config
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\bin\Debug\EstructuradeDatos.exe
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\bin\Debug\EstructuradeDatos.pdb
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\obj\Debug\EstructuradeDatos.csprojAssemblyReference.cache
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\obj\Debug\EstructuradeDatos.Form1.resources
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\obj\Debug\EstructuradeDatos.Properties.Resources.resources
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\obj\Debug\EstructuradeDatos.csproj.GenerateResource.cache
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\obj\Debug\EstructuradeDatos.exe
+C:\Users\carlo_w8yoedd\source\repos\EstructuradeDatos\EstructuradeDatos\obj\Debug\EstructuradeDatos.pdb
